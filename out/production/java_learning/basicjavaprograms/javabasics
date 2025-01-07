@@ -1,0 +1,60 @@
+Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
+Platform: Any hardware or software environment in which a program runs, is known as a platform. 
+Since Java has a runtime environment (JRE) and API, it is called a platform.
+A list of the most important features of the Java language is given below.
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+
+Simple
+Java is very easy to learn, and its syntax is simple, clean and easy to understand. 
+
+Object-oriented
+Java is an object-oriented programming language. Everything in Java is an object.
+Object-oriented programming (OOPs) is a methodology that simplifies software development and maintenance by providing some rules.
+
+Basic concepts of OOPs are:
+
+Object
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+Platform Independent
+Java is platform independent because it is different from other languages like C, C++, etc. 
+which are compiled into platform specific machines while Java is a write once, run anywhere language.
+A platform is the hardware or software environment in which a program runs.
+
+Secured
+Java is best known for its security. With Java, we can develop virus-free systems. Java is secured because:
+No explicit pointer
+Java Programs run inside a virtual machine sandbox
+
+Robust
+The English mining of Robust is strong. Java is robust because:
+It uses strong memory management.
+There is a lack of pointers that avoids security problems.
+Java provides automatic garbage collection which runs on the Java Virtual Machine to get rid of objects which are not being used by a Java application anymore.
+There are exception handling and the type checking mechanism in Java. All these points make Java robust.
+
+Portable
+Java is portable because it facilitates you to carry the Java bytecode to any platform. It doesn't require any implementation.
+
+High-performance
+Java is faster than other traditional interpreted programming languages because Java bytecode is "close" to native code. 
+It is still a little bit slower than a compiled language (e.g., C++). 
+Java is an interpreted language that is why it is slower than compiled languages, e.g., C, C++, etc.
+
+Multi-threaded
+A thread is like a separate program, executing concurrently. We can write Java programs that deal with many tasks at once by defining multiple threads. 
+The main advantage of multi-threading is that it doesn't occupy memory for each thread. 
+It shares a common memory area. Threads are important for multi-media, Web applications, etc.
