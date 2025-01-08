@@ -1,6 +1,6 @@
 package Interfaceinjava;
 
-public interface testinterface {
+interface testinterface {
 
     public static void main(String[] args) {
 
