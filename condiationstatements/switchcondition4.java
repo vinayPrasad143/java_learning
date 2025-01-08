@@ -1,6 +1,6 @@
 package condiationstatements;
 
-public class switchcondition {
+public class switchcondition4 {
 
     public static void main(String[] args) {
 
