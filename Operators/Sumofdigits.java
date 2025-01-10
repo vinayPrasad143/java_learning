@@ -6,6 +6,11 @@ public class Sumofdigits {
 
     public static void main(String[] args) {
 
+        int i=10;
+
+        int i1 = i++ + i++ + ++i + ++i;
+        System.out.println(i1);
+
         Scanner scn = new Scanner(System.in);
         System.out.println("Enter the value :");
         int num = scn.nextInt();

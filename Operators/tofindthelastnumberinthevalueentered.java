@@ -11,6 +11,6 @@ public class tofindthelastnumberinthevalueentered {
         int i = scn.nextInt();
 
         int result = i%10;
-        System.out.println("last digi of the entered value is " + result);
+        System.out.println("last digit of the entered value is " + result);
     }
 }
