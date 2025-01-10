@@ -57,7 +57,16 @@ public class immutablestring {
         String replace = s10.replace('o', 'l');
         System.out.println(replace);
 
+        // Trim in java
 
+        String str10 = " vihaan ";
+        String str11 = str10.trim();
+        System.out.println(str11);
+
+        //String contains
+
+        String str12 = "hello world";
+        System.out.println(str12.contains("world"));
 
 
 
